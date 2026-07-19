@@ -32,12 +32,7 @@ A reproducible pipeline for filtering, processing, and automatically vocalizing 
 
 ### Resolving Lexical Ambiguity in Arabic Neural Machine Translation
 
-### Resolving Lexical Ambiguity in Arabic Neural Machine Translation
-
 A public research overview of an ongoing study examining the effects of Arabic diacritization and character-level versus word-level tokenization on bidirectional Arabic–English neural machine translation. The manuscript is currently under peer review, while the complete experimental materials remain private during the review process.
-
-[View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation-Overview)
-
 
 [View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation-Overview)
 
