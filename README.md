@@ -34,7 +34,7 @@ A reproducible pipeline for filtering, processing, and automatically vocalizing 
 
 An experimental study investigating how Arabic diacritization and character-level versus word-level tokenization affect bidirectional Arabic–English neural machine translation.
 
-[View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation-Overview))
+[View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation-Overview)
 
 ### Arabic–English Machine Translation Assessment
 
