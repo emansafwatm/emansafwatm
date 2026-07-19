@@ -48,6 +48,12 @@ A work-in-progress revision of a study comparing models trained from scratch wit
 
 [View repository](https://github.com/emansafwatm/Evaluating-Transformer-Training-Strategies-for-Morphologically-Rich-Machine-Translation)
 
+### Ontology-Based Adaptive Learning Research
+
+A historical research portfolio documenting my MSc research on ontology-based adaptive assessment, semantic reasoning, Arabic financial-accounting knowledge representation, and comparison with Item Response Theory. The work resulted in three peer-reviewed publications.
+
+[View repository](https://github.com/emansafwatm/Ontology-Based-Adaptive-Learning-Research)
+
 ### AI/ML Teaching Portfolio
 
 A collection of implementation-oriented notebooks covering artificial intelligence, machine learning, data science, natural language processing, deep learning, and computer vision.
