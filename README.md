@@ -161,3 +161,4 @@ I am interested in funded PhD and research opportunities related to:
 * **LinkedIn:** [Eman Khater](https://www.linkedin.com/in/eman-khater-1b480427/)
 * **GitHub:** [emansafwatm](https://github.com/emansafwatm)
 * **Google Scholar:** [Eman Khater](https://scholar.google.com/citations?user=s1K0OrgAAAAJ&hl=en)
+* **ORCID:** [0000-0003-2291-1166](https://orcid.org/0000-0003-2291-1166)
