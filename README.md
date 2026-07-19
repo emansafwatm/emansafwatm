@@ -70,7 +70,7 @@ Research on ontology-driven adaptive examination systems using OWL, SPARQL, sema
 
 * Author of peer-reviewed research in Arabic NLP, machine translation, knowledge representation, semantic technologies, and adaptive learning systems.
 * Published and accepted research on vocalized Arabic–English parallel data for machine translation and diacritization.
-* Three first-author journal manuscripts under peer review in transformer optimization, multilingual Large Language Models, and knowledge-enhanced neural machine translation.
+* Two first-author journal manuscripts are currently under peer review, and an additional machine translation study is undergoing substantial revision before resubmission.
 * Conducted large-scale distributed GPU experiments using the Bibliotheca Alexandrina High-Performance Computing cluster.
 
 ## Selected Publications
