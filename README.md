@@ -94,6 +94,7 @@ Research on ontology-driven adaptive examination systems using OWL, SPARQL, sema
 - **Comparing Ontology-Based and Item Response Theory in Computer Adaptive Testing**  
   E. Khater, A. Hegazy, and M. E. Shehab.  
   *IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS 2015)*.
+  
    [View publication](https://ieeexplore.ieee.org/document/7397220)
   
 ## Technical Skills
