@@ -48,11 +48,11 @@ A work-in-progress revision of a study comparing models trained from scratch wit
 
 [View repository](https://github.com/emansafwatm/Evaluating-Transformer-Training-Strategies-for-Morphologically-Rich-Machine-Translation)
 
-### AI and Machine Learning Teaching Portfolio
+### AI/ML Teaching Portfolio
 
 A collection of implementation-oriented notebooks covering artificial intelligence, machine learning, data science, natural language processing, deep learning, and computer vision.
 
-[View repository](https://github.com/emansafwatm/Python-Code)
+[View repository](https://github.com/emansafwatm/AI-ML-Teaching-Portfolio)
 
 ## Additional Research Directions
 
