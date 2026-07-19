@@ -73,6 +73,27 @@ Research on ontology-driven adaptive examination systems using OWL, SPARQL, sema
 * Three first-author journal manuscripts under peer review in transformer optimization, multilingual Large Language Models, and knowledge-enhanced neural machine translation.
 * Conducted large-scale distributed GPU experiments using the Bibliotheca Alexandrina High-Performance Computing cluster.
 
+## Selected Publications
+
+- **Vocalized Arabic–English Parallel Corpus: A High-Quality Resource for Machine Translation and Diacritization**  
+  E. Khater, M. E. Shehab, M. Aborezqa, and K. Mahar.  
+  *International Conference on Computer Technology and Applications (ICCTA 2025)*.
+  [View publication](https://ieeexplore.ieee.org/document/11520015)
+
+- **Arabic Ontology Model for Financial Accounting**  
+  E. Khater, A. Hegazy, and M. Sakre.  
+  *International Conference on Soft Computing and Software Engineering (SCSE 2015)*.  
+  [View publication](https://www.sciencedirect.com/science/article/pii/S1877050915026599)
+
+- **Ontology-Based Adaptive Examination System in E-Learning Management Systems**  
+  E. Khater, A. Hegazy, and M. E. Shehab.  
+  *IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS 2015)*.  
+  [View publication](https://ieeexplore.ieee.org/document/7397228)
+
+- **Comparing Ontology-Based and Item Response Theory in Computer Adaptive Testing**  
+  E. Khater, A. Hegazy, and M. E. Shehab.  
+  *IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS 2015)*.
+  
 ## Technical Skills
 
 **Programming Languages:** Python, C++, C#, SQL, JavaScript
