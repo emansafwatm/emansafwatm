@@ -44,7 +44,7 @@ A reproducible research project evaluating Arabic–English machine translation 
 
 ### Transformer Training Strategies for Morphologically Rich Machine Translation
 
-A comparative evaluation of Transformer models trained from scratch and multilingual pretrained models for Arabic–English machine translation.
+A work-in-progress revision of a study comparing models trained from scratch with multilingual pretrained Transformer models for Arabic–English machine translation. The experimental design, results, and conclusions are currently being reassessed and validated.
 
 [View repository](https://github.com/emansafwatm/Evaluating-Transformer-Training-Strategies-for-Morphologically-Rich-Machine-Translation)
 
