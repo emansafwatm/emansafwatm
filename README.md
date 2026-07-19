@@ -34,7 +34,7 @@ A reproducible pipeline for filtering, processing, and automatically vocalizing 
 
 An experimental study investigating how Arabic diacritization and character-level versus word-level tokenization affect bidirectional Arabic–English neural machine translation.
 
-[View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation2)
+[View repository](https://github.com/emansafwatm/Resolving-Lexical-Ambiguity-in-Arabic-Neural-Machine-Translation-Overview))
 
 ### Arabic–English Machine Translation Assessment
 
@@ -136,4 +136,4 @@ I am interested in funded PhD and research opportunities related to:
 * **Email:** [emansafwatm@gmail.com](mailto:emansafwatm@gmail.com)
 * **LinkedIn:** [Eman Khater](https://www.linkedin.com/in/eman-khater-1b480427/)
 * **GitHub:** [emansafwatm](https://github.com/emansafwatm)
-* **Google Scholar:** [https://scholar.google.com/citations?user=s1K0OrgAAAAJ&hl=en]
+* **Google Scholar:** [Eman Khater](https://scholar.google.com/citations?user=s1K0OrgAAAAJ&hl=en)
